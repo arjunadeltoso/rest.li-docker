@@ -23,4 +23,3 @@ clear-docker:
 logs-docker:
 	docker logs -t -f ${DOCKER_NAME}
 
-	find /tmp/rest.li-dockerized -name '*~' -exec rm {} \;
