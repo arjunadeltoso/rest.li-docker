@@ -1,4 +1,4 @@
-# rest.li quickstart docker image
+# rest.li docker image
 
 ### A Docker image that runs rest.li quickstart example.
 
